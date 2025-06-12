@@ -2,7 +2,7 @@
 group member: HU DEZHI, NEOH ZONG YU, NIU TIEZHU, SUM JING YU
 
 the function is to detect RMS and frequency at 1x RPM (unbalance), and 
-the collected data is visualized at Thingspeak
+the collected data is visualized at Thingspeak via WiFi
 the fault thresholds is set for email notification
 
 this project include:
