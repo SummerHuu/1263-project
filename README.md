@@ -9,3 +9,4 @@ this project include:
 1.Final Arduino code;
 2.Dataset (sample vibration logs) 
 3.circuit
+4.project report
